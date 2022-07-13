@@ -51,7 +51,7 @@ command="curl -s -o release.json -w '%{http_code}' \
 # file: path to the asset file to upload 
 # name: name to use for the uploaded asset
 
-    token='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'
+    token='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'
     file=''
     name=''
 
