@@ -1,5 +1,5 @@
 {
-  "channel": "beta",
+  "channel": "dev",
   "supervisor": "2026.02.1",
   "homeassistant": {
     "raspberrypi4-64": "2026.4.1",
